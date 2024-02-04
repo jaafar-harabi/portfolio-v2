@@ -1,0 +1,21 @@
+import app from '../assets/app-management.png'
+import landing from '../assets/landing.png'
+import store from '../assets/store.png'
+import quote from '../assets/quote.png'
+import css from '../assets/css-3.png'
+import html from '../assets/html.png'
+import js from '../assets/js.png'
+import react from '../assets/react.png'
+import python from '../assets/python.png'
+import mysql from '../assets/mysql.png'
+import wordpress from '../assets/wordpress.png'
+import mongo from '../assets/pngwing.com.png'
+import img2 from '../assets/img2.png'
+import resume from '../assets/resume.pdf'
+import aws from '../assets/aws.png'
+import docker from '../assets/docker.png'
+import azure from '../assets/azure.png'
+import odoo from '../assets/odoo.png'
+
+
+export {app,landing,store,quote,css,html,img2,js,mongo,mysql,python,react,resume,wordpress,aws,docker,odoo,azure}
