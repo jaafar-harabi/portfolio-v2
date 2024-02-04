@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import {Button} from "@material-tailwind/react";
 import { Tab } from '@headlessui/react'
 import 'react-multi-carousel/lib/styles.css'
-import {landing,store,quote,app} from '../../assets'
+import {landing,store,quote,app,countries,movies} from '../../assets'
 import {motion} from 'framer-motion'
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')
@@ -25,7 +25,7 @@ function Projects({theme}) {
     ],
     "Contact App Management": [
       {
-        id: 1,
+        id: 2,
         image: app,
         technologie: 'React / Node.js / Express.js / MongoDB / Material Tailwind',
         href : 'https://long-cyan-oyster-gown.cyclic.app/'
@@ -33,20 +33,37 @@ function Projects({theme}) {
     ],
     "Cart Store": [
       {
-        id: 1,
+        id: 3,
         image: store,
-        technologie: 'React / Material Tailwind',
+        technologie: 'React / Redux / Material Tailwind',
         href : 'https://jaafar-harabi.github.io/cart-store/'
       }
     ],
     "Quotes Generator": [
       {
-        id: 1,
+        id: 4,
         image: quote,
         technologie: 'React / Material Tailwind',
         href : 'https://jaafar-harabi.github.io/random-quote-generator/'
       }
+    ],
+    "React Movies": [
+      {
+        id: 5,
+        image: movies,
+        technologie: 'React / Material Tailwind / themoviedb API',
+        href : 'https://jaafar-harabi.github.io/react-movies/'
+      }
+    ],
+    "React Countries": [
+      {
+        id: 6,
+        image: countries,
+        technologie: 'React / Material Tailwind / MUI',
+        href : 'https://jaafar-harabi.github.io/react-countries/'
+      }
     ]
+
   })
 
   
@@ -56,8 +73,7 @@ function Projects({theme}) {
     
 
 
-            <div  id={theme} className='pt-36 pb-28'  >
-                <h1 className='text-center text-font text-2xl'> My Latest Projects</h1>
+            <div  id={theme} className='pt-32 pb-28'  >
             
                 <motion.div initial={{ opacity: 0 }}
   whileInView={{ opacity: 1 }} className="w-full max-w-md px-2 py-16 sm:px-0 mx-auto">
@@ -99,7 +115,7 @@ function Projects({theme}) {
                                 
 
                                 
-                                    <img  src={post.image} alt='img' className='rounded-full' />
+                                    <img  src={post.image} alt='img'  />
                                     <br />
                                   <h1 className='text-center font-bold'>  Technologies :    </h1>
                                            <br />

@@ -16,6 +16,8 @@ import aws from '../assets/aws.png'
 import docker from '../assets/docker.png'
 import azure from '../assets/azure.png'
 import odoo from '../assets/odoo.png'
+import countries from '../assets/countries.png'
+import movies from '../assets/movies.png'
 
 
-export {app,landing,store,quote,css,html,img2,js,mongo,mysql,python,react,resume,wordpress,aws,docker,odoo,azure}
+export {app,landing,store,quote,css,html,img2,js,mongo,mysql,python,react,resume,wordpress,aws,docker,odoo,azure,countries,movies}

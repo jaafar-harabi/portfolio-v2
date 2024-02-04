@@ -15,9 +15,8 @@ function About({theme}) {
     <div   id="about" >
     <div className='pt-44 about-res'>
         <motion.div initial={{ opacity: 0 }}
-  whileInView={{ opacity: 1 }}   className='grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1  '  id={theme} >
-            <div  className='text-center ' >
-                <p  className=' text-center mr-auto ml-auto  pt-10 text-xl about-font mb-10 '> Experienced web developer with over 2 years of dedicated expertise in JavaScript  </p>
+  whileInView={{ opacity: 1 }}   className='grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1   '  id={theme} >
+            <div  className='text-center mt-16 ' >
                 <div className="flex gap-4 justify-center" >
                     
                     <Avatar src={html} alt="avatar" size='xl' className='hover:h-16' />
@@ -61,7 +60,7 @@ function About({theme}) {
                                 Jaafar Harabi
                                 </Typography>
                                 <Typography  className="font-medium" >
-                                Web Developer
+                                Full Stack Developer
                                 </Typography>
                             </CardBody>
                             <CardFooter className="flex justify-center gap-7 pt-2 " id={theme}>
