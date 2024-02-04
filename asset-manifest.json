@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio-v2/static/css/main.34b9ab4f.css",
+    "main.js": "/portfolio-v2/static/js/main.5e9c034a.js",
+    "static/media/landing.png": "/portfolio-v2/static/media/landing.09327540075aabb4d0c1.png",
+    "static/media/pngwing.com.png": "/portfolio-v2/static/media/pngwing.com.6170bacefd8a1f69ca74.png",
+    "static/media/store.png": "/portfolio-v2/static/media/store.c9d80b50ae4f94c007aa.png",
+    "static/media/img.png": "/portfolio-v2/static/media/img.8ee003c1d7b8e2d1c83b.png",
+    "static/media/resume.pdf": "/portfolio-v2/static/media/resume.3265c54e114ecf7101c7.pdf",
+    "static/media/img2.png": "/portfolio-v2/static/media/img2.eb171f5d70c3046975c8.png",
+    "static/media/quote.png": "/portfolio-v2/static/media/quote.137e39f21c6278e51c4e.png",
+    "static/media/aws.png": "/portfolio-v2/static/media/aws.850296a094250f4a242e.png",
+    "static/media/react.png": "/portfolio-v2/static/media/react.809fed23bcdd686de66e.png",
+    "static/media/python.png": "/portfolio-v2/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/docker.png": "/portfolio-v2/static/media/docker.e8da4ec1b6e5d30a3690.png",
+    "static/media/odoo.png": "/portfolio-v2/static/media/odoo.5534b3131deedfe3d49a.png",
+    "static/media/azure.png": "/portfolio-v2/static/media/azure.c1c133ec1eb98218ce66.png",
+    "static/media/mysql.png": "/portfolio-v2/static/media/mysql.bdbd1eb709e4c13258d2.png",
+    "static/media/app-management.png": "/portfolio-v2/static/media/app-management.8833895942c0ff69c1b2.png",
+    "static/media/wordpress.png": "/portfolio-v2/static/media/wordpress.11ed091523e3152b651f.png",
+    "static/media/html.png": "/portfolio-v2/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/portfolio-v2/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/revicons.eot": "/portfolio-v2/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-v2/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/js.png": "/portfolio-v2/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/revicons.woff": "/portfolio-v2/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio-v2/index.html",
+    "main.34b9ab4f.css.map": "/portfolio-v2/static/css/main.34b9ab4f.css.map",
+    "main.5e9c034a.js.map": "/portfolio-v2/static/js/main.5e9c034a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34b9ab4f.css",
+    "static/js/main.5e9c034a.js"
+  ]
+}
