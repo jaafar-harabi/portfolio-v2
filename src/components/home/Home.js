@@ -10,7 +10,7 @@ function Home({theme} ) {
  
  
   const [text]=useTypewriter({
-    words: [`HELLO ! I'M A FULL STACK DEVELOPER JAVASCRIPT `],
+    words: [`HELLO ! I'M A FULL STACK DEVELOPER `],
     loop: {},
     typeSpeed:120,
     deleteSpeed:80
