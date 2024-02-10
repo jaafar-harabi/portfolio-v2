@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio-v2/static/css/main.e5aa60f1.css",
-    "main.js": "/portfolio-v2/static/js/main.cac9aeb9.js",
+    "main.js": "/portfolio-v2/static/js/main.660de34e.js",
     "static/media/movies.png": "/portfolio-v2/static/media/movies.a754f0f0b6bcbf60b51e.png",
     "static/media/landing.png": "/portfolio-v2/static/media/landing.09327540075aabb4d0c1.png",
     "static/media/pngwing.com.png": "/portfolio-v2/static/media/pngwing.com.6170bacefd8a1f69ca74.png",
     "static/media/store.png": "/portfolio-v2/static/media/store.c9d80b50ae4f94c007aa.png",
     "static/media/img.png": "/portfolio-v2/static/media/img.8ee003c1d7b8e2d1c83b.png",
-    "static/media/resume.pdf": "/portfolio-v2/static/media/resume.fb38c8773bd75347dbe5.pdf",
+    "static/media/resume.pdf": "/portfolio-v2/static/media/resume.7826f49aeda849dc8314.pdf",
     "static/media/img2.png": "/portfolio-v2/static/media/img2.eb171f5d70c3046975c8.png",
     "static/media/quote.png": "/portfolio-v2/static/media/quote.137e39f21c6278e51c4e.png",
     "static/media/countries.png": "/portfolio-v2/static/media/countries.994d026d6405f65e2885.png",
@@ -28,10 +28,10 @@
     "static/media/revicons.woff": "/portfolio-v2/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/portfolio-v2/index.html",
     "main.e5aa60f1.css.map": "/portfolio-v2/static/css/main.e5aa60f1.css.map",
-    "main.cac9aeb9.js.map": "/portfolio-v2/static/js/main.cac9aeb9.js.map"
+    "main.660de34e.js.map": "/portfolio-v2/static/js/main.660de34e.js.map"
   },
   "entrypoints": [
     "static/css/main.e5aa60f1.css",
-    "static/js/main.cac9aeb9.js"
+    "static/js/main.660de34e.js"
   ]
 }
